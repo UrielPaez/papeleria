@@ -1,13 +1,23 @@
 {
+<<<<<<< HEAD
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+=======
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+>>>>>>> 3318f18ce4ec5935366d01c4d0702beea31833a5
     "version": "0.2.0",
     "configurations": [
         {
             "type": "chrome",
             "request": "launch",
+<<<<<<< HEAD
             "name": "Launch Chrome against localhost",
+=======
+            "name": "Iniciar Chrome para localhost",
+>>>>>>> 3318f18ce4ec5935366d01c4d0702beea31833a5
             "url": "http://localhost:8080",
             "webRoot": "${workspaceFolder}"
         }
